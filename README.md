@@ -18,3 +18,7 @@ This script will require a binance API key to run and will do the following
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**rolling mean** itself
 
 coded in Python 3.7
+
+## auto_coin_list.ipynb
+
+An automatic coin list generator that will scout binance for the most correlated trading pairs to a single starting coin. 
