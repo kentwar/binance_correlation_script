@@ -14,7 +14,7 @@ The scripts are python notebooks, whilst they use python 3, you will need jupyte
 https://jupyter.org/
 
 
-## auto_coin_list.ipynb
+## Automatic Correlated Coin List - auto_coin_list.ipynb
 ##### WARNING - This can take some time to run as it downloads a lot of data from binance servers
 An automatic coin list generator that will scout binance for the most correlated trading pairs to a single starting coin. It will 
 
