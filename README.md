@@ -1,3 +1,18 @@
+## About these scripts
+
+These scripts were generated in order to support the selection of coin trading lists for use with automated trading strategies. Specifically, this one https://github.com/edeng23/binance-trade-bot
+
+## How to use this script
+
+Install requirements with 
+'''
+python install -r requirements.txt
+'''
+
+The scripts are python notebooks, whilst they use python 3, you will need jupyter notebook (or something that reads notebook docs) to access it.
+https://jupyter.org/
+
+
 ## auto_coin_list.ipynb
 
 An automatic coin list generator that will scout binance for the most correlated trading pairs to a single starting coin. It will 
