@@ -5,6 +5,7 @@ These scripts were generated in order to support the selection of coin trading l
 ## How to use this script
 
 Install requirements with 
+
 '''
 python install -r requirements.txt
 '''
